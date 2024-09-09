@@ -75,8 +75,6 @@ insert into pedido values
 (2, '2020-08-14','12:10','2020-08-16',2030,124);
 
 
-
-
 insert into detalle_pedido values
 (1,14082020,1),
 (2,15082020,2),
